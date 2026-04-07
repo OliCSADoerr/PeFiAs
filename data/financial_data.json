@@ -1,0 +1,173 @@
+{
+  "months": [
+    {
+      "name": "January",
+      "year": 2026,
+      "expenses": [
+        {
+          "description": "Supermarket",
+          "due_day": 30,
+          "amount": 100
+        },
+        {
+          "description": "Energy",
+          "due_day": 10,
+          "amount": 97.5
+        },
+        {
+          "description": "Car",
+          "due_day": 20,
+          "amount": 105.8
+        },
+        {
+          "description": "House",
+          "due_day": 20,
+          "amount": 1250
+        },
+        {
+          "description": "Fast Food",
+          "due_day": 30,
+          "amount": 49
+        },
+        {
+          "description": "Others",
+          "due_day": 30,
+          "amount": 217.2
+        }
+      ],
+      "incomings": [
+        {
+          "description": "Salary",
+          "due_day": 30,
+          "amount": 1000
+        },
+        {
+          "description": "Rental Inc.",
+          "due_day": 15,
+          "amount": 300
+        },
+        {
+          "description": "Bonus",
+          "due_day": 20,
+          "amount": 750
+        }
+      ]
+    },
+    {
+      "name": "February",
+      "year": 2026,
+      "expenses": [
+        {
+          "description": "Supermarket",
+          "due_day": 30,
+          "amount": 115
+        },
+        {
+          "description": "Energy",
+          "due_day": 10,
+          "amount": 89.1
+        },
+        {
+          "description": "Car",
+          "due_day": 20,
+          "amount": 396.9
+        },
+        {
+          "description": "House",
+          "due_day": 20,
+          "amount": 1250
+        },
+        {
+          "description": "Fast Food",
+          "due_day": 30,
+          "amount": 99
+        },
+        {
+          "description": "Others",
+          "due_day": 30,
+          "amount": 230
+        }
+      ],
+      "incomings": [
+        {
+          "description": "Salary",
+          "due_day": 30,
+          "amount": 950
+        },
+        {
+          "description": "Rental Inc.",
+          "due_day": 15,
+          "amount": 300
+        },
+        {
+          "description": "Bonus",
+          "due_day": 20,
+          "amount": 750
+        }
+      ]
+    },
+    {
+      "name": "March",
+      "year": 2026,
+      "expenses": [
+        {
+          "description": "Supermarket",
+          "due_day": 30,
+          "amount": 115
+        },
+        {
+          "description": "Energy",
+          "due_day": 10,
+          "amount": 55
+        },
+        {
+          "description": "Car",
+          "due_day": 20,
+          "amount": 107
+        },
+        {
+          "description": "House",
+          "due_day": 20,
+          "amount": 1250
+        },
+        {
+          "description": "Fast Food",
+          "due_day": 30,
+          "amount": 27
+        },
+        {
+          "description": "Others",
+          "due_day": 30,
+          "amount": 89
+        }
+      ],
+      "incomings": [
+        {
+          "description": "Salary",
+          "due_day": 30,
+          "amount": 1000
+        },
+        {
+          "description": "Rental Inc.",
+          "due_day": 15,
+          "amount": 300
+        },
+        {
+          "description": "Bonus",
+          "due_day": 20,
+          "amount": 1150
+        },
+        {
+          "description": "Gift",
+          "due_day": 10,
+          "amount": 200
+        },
+        {
+          "description": "hjk",
+          "due_day": 1,
+          "amount": 2000
+        }
+      ]
+    }
+  ]
+}
